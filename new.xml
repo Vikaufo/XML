@@ -1,7 +1,7 @@
-<?xml version="1.0" encording="UTF=-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <person>
-<name>Shablova Viktoria</name>
-<age>23</age>
-<pet>cat</pet>
-<future_expected_salary>1000$</future_expected_salary>
+    <name>Shablova Viktoria</name>
+    <age>23</age>
+    <pet>cat</pet>
+    <future_expected_salary>1000$</future_expected_salary>
 </person>
