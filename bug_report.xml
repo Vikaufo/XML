@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<id>123</id>
+<title>Nothing happens when you press the button 'Edit Profile'</title>
+<severity>Major</severity>
+<priority>Medium</priority>
+<description>
+    <steps_to_reproduce>
+        <step_1>1. Log in with your username and password</step_1>
+        <step_2>2. Open the 'Menu'</step_2>
+        <step_3>3. Go to 'Profile'</step_3>
+        <step_4>4. Click 'Edit Profile'</step_4>
+    </steps_to_reproduce>
+    <actual_result>Stay on the page 'Profile'</actual_result>
+    <expected_result>The profile editing window opens</expected_result>
+</description>
+<assigned_to>Automatically</assigned_to>
