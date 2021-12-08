@@ -30,7 +30,9 @@ vim new.xml (i - инфа о себе) esc :wq
  8. **Отправить изменения на внешний репозиторий.**
  
 git add .
+
 git commit -m "Modifided file"
+
 git push
 
  9. **Создать файл preferences.xml**
@@ -44,6 +46,7 @@ vim preferences.json (i - предпочтения) esc :wq
  11. **Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML**
  
 touch skills.xml
+
 vim (i - навыки) esc :wq
 
  12. **Сделать коммит в одну строку.**
